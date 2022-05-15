@@ -25,6 +25,7 @@ Breadth first search
  implicit constraint
  explicit constraint
  state space tree
+ number of nodes in tree
  
  M colouring
  implicit constraint
