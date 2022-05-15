@@ -13,9 +13,16 @@ Prims's Algo(added at end of lab)
 
 Matrix Chain
 
+Travelling salesman
+All dist calculation
+
 Floyd Warshall
+All matrixes calculation
+
 
 Bellman ford
+matrix /Distance array calculation
+TC->O(N-1)*(E) ~ O(N^3) 
 
 Depth first search
 
@@ -26,6 +33,10 @@ Breadth first search
  explicit constraint
  state space tree
  number of nodes in tree
+ What is backtracking?(dfs type of searching technique)
+ what is branch and bound?(bfs type of searching technique)
+ 
+ 
  
  M colouring
  implicit constraint
