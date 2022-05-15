@@ -3,3 +3,11 @@ https://youtu.be/jJuuRDFxpCA
 Solution of graph problems in discrete math
 
 ----------------------------------------
+
+Do-
+
+Chromatic Graph 
+Chromatic Polynomial
+Bijective
+
+-----------------------------------------
