@@ -1,7 +1,9 @@
 Must do-
 Fibonacci DP
+O(N) TC
 
 Binomial Coefficient DP
+
 
 differene between greedy and dp?
 what is dp?
@@ -11,7 +13,9 @@ time complexity->O(sorting algorithm you use)
 
 Prims's Algo(added at end of lab)
 
+
 Matrix Chain
+TC->O(N^3)
 
 Travelling salesman
 All dist calculation
@@ -27,8 +31,12 @@ matrix /Distance array calculation
 TC->O(N-1)*(E) ~ O(N^3) 
 
 Depth first search
+TC->O(V+E) for adjacency list
+also tc->O(V^2) for adjacency matrix
 
 Breadth first search
+TC->O(V+E) for adjacency list
+also tc->O(V^2) for adjacency matrix
 
  N queens
  implicit constraint
@@ -37,7 +45,7 @@ Breadth first search
  number of nodes in tree
  What is backtracking?(dfs type of searching technique)
  what is branch and bound?(bfs type of searching technique)
- 
+ TC->N factorial (backtracking)
  
  
  M colouring
